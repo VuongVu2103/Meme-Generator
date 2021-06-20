@@ -1,5 +1,5 @@
 # Memegenerator
-Basic Meme Genrator React app
+Simple Meme Genrator React app
 
 ## Setup
 . First, clone this project:
